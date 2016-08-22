@@ -1,0 +1,8 @@
+{
+  "name": "node.js-201",
+  "version": "1.0.0",
+  "description": "Example for class NodeJS-201",
+  "main": "index.js",
+  "author": "Tarek Tarho",
+  "license": "ISC"
+}
